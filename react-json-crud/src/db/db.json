@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Siri",
+      "batch": "oilc-203",
+      "course": "ReactJs"
+    }
+  ]
+}
